@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noImplicitAny": false
+  },
+  "include": ["./src/**/*"]
+}
+// {
+//   "compilerOptions": {
+//     "allowJs": true,   // Ts내에 자바스크립트 허용
+//     "checkJs": true,    // TS JS CHECK 
+//     "noImplicitAny": false  // 최소한의 타입 설정 / 
+//   },
+//   "include": ["./src/**/*"]aaa
+// }
